@@ -1,0 +1,5 @@
+package implementeInterface;
+
+class Chicken { 
+	
+}

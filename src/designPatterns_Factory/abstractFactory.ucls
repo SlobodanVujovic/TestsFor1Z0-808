@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="designPatterns_Factory.ThickCrustDough" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/ThickCrustDough.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1848" y="176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="designPatterns_Factory.ChicagoPizzaIngredientFactory" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/ChicagoPizzaIngredientFactory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1705" y="1470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="designPatterns_Factory.CheesePizza" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/CheesePizza.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1796" y="993"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="designPatterns_Factory.ChicagoPizzaStore" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/ChicagoPizzaStore.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2803" y="1139"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="5" language="java" name="designPatterns_Factory.Dough" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/Dough.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2006" y="480"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="6" language="java" name="designPatterns_Factory.Mushroom" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/Mushroom.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2404" y="176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="designPatterns_Factory.Pizza" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/Pizza.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1936" y="774"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="designPatterns_Factory.ThinCrustDough" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/ThinCrustDough.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2032" y="180"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="designPatterns_Factory.ClamPizza" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/ClamPizza.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2116" y="989"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="designPatterns_Factory.BlackOlives" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/BlackOlives.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3044" y="166"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="11" language="java" name="designPatterns_Factory.Sauce" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/Sauce.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1778" y="470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="designPatterns_Factory.Onion" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/Onion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3198" y="166"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="designPatterns_Factory.PizzaStore" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/PizzaStore.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2678" y="901"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="designPatterns_Factory.ReggianoCheese" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/ReggianoCheese.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="901" y="184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="designPatterns_Factory.Spinach" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/Spinach.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2898" y="170"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="designPatterns_Factory.Eggplant" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/Eggplant.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2742" y="178"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="designPatterns_Factory.FreshClams" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/FreshClams.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1224" y="184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="18" language="java" name="designPatterns_Factory.PizzaIngredientFactory" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/PizzaIngredientFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1953" y="1240"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="19" language="java" name="designPatterns_Factory.PlumTomatoSauce" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/PlumTomatoSauce.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1534" y="184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="designPatterns_Factory.SlicedPepperoni" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/SlicedPepperoni.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="742" y="184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="designPatterns_Factory.NYPizzaIngredientFactory" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/NYPizzaIngredientFactory.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2213" y="1452"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="22" language="java" name="designPatterns_Factory.Veggies" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/Veggies.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2196" y="477"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="23" language="java" name="designPatterns_Factory.RedPepper" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/RedPepper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2584" y="174"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="designPatterns_Factory.MarinaraSauce" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/MarinaraSauce.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1695" y="184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="25" language="java" name="designPatterns_Factory.Clams" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/Clams.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1570" y="472"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="26" language="java" name="designPatterns_Factory.Cheese" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/Cheese.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1332" y="470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="27" language="java" name="designPatterns_Factory.Garlic" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/Garlic.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2212" y="174"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="designPatterns_Factory.NYPizzaStore" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/NYPizzaStore.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2551" y="1151"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="29" language="java" name="designPatterns_Factory.Pepperoni" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/Pepperoni.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1083" y="470"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="30" language="java" name="designPatterns_Factory.FrozenClams" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/FrozenClams.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1374" y="184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="designPatterns_Factory.MozzarellaCheese" project="testsFor1Z0-808" 
+    file="/testsFor1Z0-808/src/designPatterns_Factory/MozzarellaCheese.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1065" y="184"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="32">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="33" name="dough">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="34" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="35">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <realization id="36">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <realization id="37">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="25"/>  
+  </realization>  
+  <realization id="38">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="18"/>  
+  </realization>  
+  <realization id="39">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <realization id="40">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <association id="41">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="42" name="clam">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="43" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="44">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="45" name="ingredientFactory">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="46" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="47">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <realization id="48">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <realization id="49">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="29"/>  
+  </realization>  
+  <realization id="50">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <association id="51">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="52" name="veggies">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="53" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="55" name="pepperoni">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="56" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="58" name="sauce">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="59" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="60">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <generalization id="61">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <realization id="62">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <realization id="63">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <realization id="64">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <realization id="65">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="18"/>  
+  </realization>  
+  <realization id="66">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <realization id="67">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <association id="68">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="69" name="cheese">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="70" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="71">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="13"/>  
+  </generalization>  
+  <generalization id="72">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <realization id="73">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <realization id="74">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="25"/>  
+  </realization>  
+  <association id="75">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="76" name="ingredientFactory">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="77" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
